@@ -1,0 +1,19 @@
+# Colours
+# Usage echo -e "${r} Example ${nc}"
+
+# RED
+r="\033[0;31m"
+# GREEN
+g="\033[0;32m"
+# BLUE
+b="\033[0;34m"
+# PURPLE
+p="\033[0;35m"
+# YELLOW
+y="\033[1;33m"
+# CYAN
+c="\033[0;36m"
+# ORANGE
+o="\033[0;33m"
+# No Color
+nc="\033[0m"
